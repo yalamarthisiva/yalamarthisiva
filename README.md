@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Siva Yalamarthi 👋
 
-<!--
-**yalamarthisiva/yalamarthisiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### EDI Developer & Architect 
+*Specializing in supply chain integration, B2B automation, and robust enterprise architecture.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Core Tech Stack
+- **B2B & EDI:** IBM Sterling B2B Integrator, SAP EDI, EDIFACT, X12
+- **Languages:** Python, JavaScript, SQL
+- **Integration:** Managed File Transfer (MFT), API Integration, Supply Chain Automation
+
+## 🚀 What I'm Building
+- **EDIFLUX:** [n AI-powered EDI search assistant that visualizes the full PO lifecycle and translates complex X12 data into instant, natural-language answers]
+- Optimizing automated workflows and enterprise data translations.
+
+## 📫 Connect with Me- [LinkedIn](https://www.linkedin.com/in/siva-yalamarthi/)
