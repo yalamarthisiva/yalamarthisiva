@@ -11,7 +11,8 @@
 - **Integration:** Managed File Transfer (MFT), API Integration, Supply Chain Automation
 
 ## 🚀 What I'm Building
-- **EDIFLUX:** [n AI-powered EDI search assistant that visualizes the full PO lifecycle and translates complex X12 data into instant, natural-language answers]
+- **EDIFLUX:** An AI-powered EDI search assistant that visualizes the full PO lifecycle and translates complex X12 data into instant, natural-language answers.
 - Optimizing automated workflows and enterprise data translations.
 
-## 📫 Connect with Me- [LinkedIn](https://www.linkedin.com/in/siva-yalamarthi/)
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/siva-yalamarthi/)
